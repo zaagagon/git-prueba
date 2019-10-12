@@ -1,3 +1,4 @@
+//cambios realizados 12 octubre en git
 //declaracion de funciones basicas
 function sumar(a1,a2) {
     return a1 +a2;
