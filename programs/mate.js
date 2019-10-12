@@ -1,3 +1,4 @@
+//Creamos el objeto mate
 const mate= {};
 
 //cambios realizados 12 octubre en git
