@@ -2,6 +2,8 @@
 //importar el archivo mate que contiene las funciones
 // todo lo importado quedara en la constante mate
 const mate=require ('./mate.js');
+//imprime el contenido de la constante mate que contiene un objeto
+console.log(mate);
 
 
 // como estoy exportando las funciones
